@@ -27,6 +27,8 @@
 
     <modules>
         <module>hello-world</module>
+        <module>revees-server-spring-boot-starter</module>
+        <module>use-springboot-diy-starter</module>
     </modules>
 
 
