@@ -29,6 +29,7 @@
         <module>hello-world</module>
         <module>revees-server-spring-boot-starter</module>
         <module>use-springboot-diy-starter</module>
+        <module>mapstruct-demo</module>
     </modules>
 
 
