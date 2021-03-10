@@ -1,8 +1,8 @@
 package com.lizuoyang.springboot.controller;
 
-import com.lizuoyang.springboot.bean.UserAddDTO;
-import com.lizuoyang.springboot.bean.UserUpdateDTO;
-import com.lizuoyang.springboot.bean.UserVO;
+import com.lizuoyang.springboot.pojo.UserAddDTO;
+import com.lizuoyang.springboot.pojo.UserUpdateDTO;
+import com.lizuoyang.springboot.pojo.UserVO;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiOperation;

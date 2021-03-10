@@ -1,4 +1,4 @@
-package com.lizuoyang.springboot.bean;
+package com.lizuoyang.springboot.pojo;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
