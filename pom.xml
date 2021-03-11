@@ -30,6 +30,10 @@
         <module>revees-server-spring-boot-starter</module>
         <module>use-springboot-diy-starter</module>
         <module>mapstruct-demo</module>
+        <module>swagger2-demo</module>
+        <module>websocket-demo</module>
+        <module>hibernate-validate-demo</module>
+        <module>global-return-exception</module>
     </modules>
 
 
