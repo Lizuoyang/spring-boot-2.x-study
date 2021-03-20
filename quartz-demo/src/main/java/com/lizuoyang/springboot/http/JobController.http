@@ -12,7 +12,7 @@ Content-Type: application/json
 }
 
 ### 删除任务
-POST http://localhost:8080/job//delete
+POST http://localhost:8080/job/delete
 Content-Type: application/json
 
 {
@@ -21,7 +21,7 @@ Content-Type: application/json
 }
 
 ### 继续任务
-POST http://localhost:8080/job//resume
+POST http://localhost:8080/job/resume
 Content-Type: application/json
 
 {
@@ -30,7 +30,7 @@ Content-Type: application/json
 }
 
 ### 暂停任务
-POST http://localhost:8080/job//pause
+POST http://localhost:8080/job/pause
 Content-Type: application/json
 
 {
