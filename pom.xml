@@ -35,6 +35,7 @@
         <module>hibernate-validate-demo</module>
         <module>global-return-exception</module>
         <module>idea-http-client-demo</module>
+        <module>quarty-demo</module>
     </modules>
 
 
