@@ -38,6 +38,8 @@
         <module>quartz-demo</module>
         <module>datasource-pool-hikaricp-single</module>
         <module>datasource-pool-hikaricp-multiple</module>
+        <module>datasource-pool-druid-single</module>
+        <module>datasource-pool-druid-multiples</module>
     </modules>
 
 
