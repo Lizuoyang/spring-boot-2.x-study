@@ -37,6 +37,7 @@
         <module>idea-http-client-demo</module>
         <module>quartz-demo</module>
         <module>datasource-pool-hikaricp-single</module>
+        <module>datasource-pool-hikaricp-multiple</module>
     </modules>
 
 
