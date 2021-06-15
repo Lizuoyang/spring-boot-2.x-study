@@ -35,7 +35,8 @@
         <module>hibernate-validate-demo</module>
         <module>global-return-exception</module>
         <module>idea-http-client-demo</module>
-        <module>quarty-demo</module>
+        <module>quartz-demo</module>
+        <module>datasource-pool-hikaricp-single</module>
     </modules>
 
 
